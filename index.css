@@ -1,0 +1,11 @@
+* {
+    background: linear-gradient(45, red, black);
+    color: white;
+    text-align: center;
+}
+
+.b1 {
+    width: 50%;
+    margin: auto;
+    padding: 45vh;
+}
